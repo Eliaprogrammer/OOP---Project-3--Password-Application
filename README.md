@@ -11,4 +11,6 @@ a message to guide them to enter the right one.
 The user inputs are unique usernames and passwords that obey the rules.
 The Output will display that both are accepted and created for each personnel.
 
-There is a separate application/file that provides a simple arithmetic exception handling when the user tries to multiply a number by zero. 
+There is a separate application/file that provides simple arithmetic exception handling when the user tries to multiply a number by zero. 
+
+The Project was programmed in IntelliJ IDEA Ultimate and is a console-based application 
